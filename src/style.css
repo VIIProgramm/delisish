@@ -1,97 +1,423 @@
-:root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
+body{
+  background-color: black;
 }
 
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
+.slide-16-9-3,
+.slide-16-9-3 * {
+  box-sizing: border-box;
 }
-a:hover {
-  color: #535bf2;
+.slide-16-9-3 {
+  background: #040404;
+  width: 1895px;
+  height: 2434px;
+  position: relative;
+  overflow: hidden;
+}
+.tojos {
+  filter: brightness(9%);
+  width: 1905px;
+  height: 911px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.component-8 {
+  width: 1783px;
+  height: 57px;
+  position: absolute;
+  left: 61px;
+  top: 61px;
+}
+.menu {
+  color: #aaabad;
+  text-align: left;
+  font: 400 19px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 768.52px;
+  top: 17.87px;
+  width: 57.29px;
+  height: 22.83px;
+}
+.franchise {
+  color: #aaabad;
+  text-align: left;
+  font: 400 19px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 853.47px;
+  top: 17.87px;
+  width: 104.71px;
+  height: 22.83px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font: 400 19px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 682.58px;
+  top: 17.87px;
+  width: 58.28px;
+  height: 22.83px;
+}
+.conta-ts {
+  color: #aaabad;
+  text-align: left;
+  font: 400 19px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 985.84px;
+  top: 17.87px;
+  width: 98.78px;
+  height: 28.79px;
+}
+.image-1-photo-room-1 {
+  width: 52.35px;
+  height: 57px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 1640.76px;
+  top: 19.85px;
+  width: 49.39px;
+  height: 18.86px;
+}
+.sign-up {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 1717.8px;
+  top: 19.85px;
+  width: 70px;
+  height: 14.89px;
+}
+.subtract {
+  position: absolute;
+  left: 1711.88px;
+  top: 11.91px;
+  overflow: visible;
+}
+.component-7 {
+  width: 361px;
+  height: 258px;
+  position: absolute;
+  left: 772px;
+  top: 333px;
+}
+.component-3 {
+  width: 361px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 218px;
+}
+.more {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 287px;
+  top: 22px;
+}
+.from-chefs-from-all-over-the-world {
+  color: #aaabad;
+  text-align: left;
+  font: 400 16px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 34px;
+  top: 22px;
+}
+.professional-cooking-of-asian-cuisine-with-guests {
+  color: #aaabad;
+  text-align: left;
+  font: 400 16px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 361px;
+}
+.component-6 {
+  width: 197px;
+  height: 193px;
+  position: absolute;
+  left: 82px;
+  top: 0px;
+}
+.ellipse-1 {
+  background: #561e1e;
+  border-radius: 50%;
+  width: 197px;
+  height: 193px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.image-1-photo-room-2 {
+  width: 157px;
+  height: 163px;
+  position: absolute;
+  left: 20px;
+  top: 17px;
+}
+.japanese-dishes {
+  color: #ffffff;
+  text-align: left;
+  font: 700 24px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 71px;
+  top: 950px;
+  width: 200px;
+  height: 27px;
+}
+.component-1 {
+  width: 1421px;
+  height: 475px;
+  position: absolute;
+  left: 0px;
+  top: 1022px;
+}
+.more2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 1373px;
+  top: 450px;
+  width: 50px;
+  height: 20px;
+}
+.all-types-of-sushi-consist-of-a-basic {
+  color: #ffffff;
+  text-align: left;
+  font: 300 18px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 1035px;
+  top: 357px;
+  width: 386px;
+}
+.structure {
+  color: #ffffff;
+  text-align: left;
+  font: 400 22px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 1035px;
+  top: 320px;
+}
+.history-of-sushi {
+  color: #ffffff;
+  text-align: left;
+  font: 300 18px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 1035px;
+  top: 80px;
+  width: 383px;
+}
+.sushi {
+  color: #ffffff;
+  text-align: left;
+  font: 700 24px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 1035px;
+  top: 0px;
+  width: 61px;
+  height: 23px;
+}
+.history-of-creation {
+  color: #ffffff;
+  text-align: left;
+  font: 400 22px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 1035px;
+  top: 35px;
+}
+.net-sushi {
+  filter: brightness(9%);
+  width: 1004px;
+  height: 475px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.component-10 {
+  width: 1803px;
+  height: 573px;
+  position: absolute;
+  left: 102px;
+  top: 1608px;
+}
+.more3 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 20px "Ubuntu", sans-serif;
+  position: absolute;
+  
+  top: 540px;
+  width: 50px;
+  height: 20.14px;
+}
+.structure2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 22px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 410px;
+}
+.history {
+  color: #ffffff;
+  text-align: left;
+  font: 400 22px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 280px;
+}
+.sukiyaki {
+  color: #ffffff;
+  text-align: left;
+  font: 700 22px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.sukiya {
+  filter: brightness(9%);
+  width: 938px;
+  height: 573px;
+  position: absolute;
+  left: 865px;
+  top: 0px;
+}
+.the-cooking-process {
+  color: #ffffff;
+  text-align: left;
+  font: 400 22px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 37px;
+}
+.soup {
+  color: #ffffff;
+  text-align: left;
+  font: 300 18px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 82px;
+  width: 828px;
+}
+.sukiyaki-consists {
+  color: #ffffff;
+  text-align: left;
+  font: 300 18px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 447px;
+  width: 828px;
+}
+.in-modern-japanese-encyclopedias-on-the-historyi {
+  color: #ffffff;
+  text-align: left;
+  font: 300 18px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 317px;
+  width: 828px;
+}
+.component-11 {
+  width: 1690px;
+  height: 113px;
+  position: absolute;
+  left: 107px;
+  top: 2256px;
+}
+.jobs {
+  color: #ffffff;
+  text-align: left;
+  font: 700 13px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 266px;
+  top: 30px;
+  width: 54px;
+  height: 12px;
+}
+.support {
+  color: #ffffff;
+  text-align: left;
+  font: 700 13px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 266px;
+  top: 61px;
+  width: 78px;
+  height: 12px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font: 700 13px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 266px;
+  top: 92px;
+  width: 76px;
+  height: 12px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 72px;
+  height: 46px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 266px;
+  top: 0px;
+  width: 125px;
+  height: 46px;
+}
+.terms-of-service {
+  color: #ffffff;
+  text-align: left;
+  font: 700 13px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 61px;
+  width: 159px;
+  height: 12px;
+}
+.blog {
+  color: #ffffff;
+  text-align: left;
+  font: 700 13px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 29px;
+  width: 44px;
+  height: 13px;
+}
+.demo {
+  color: #ffffff;
+  text-align: left;
+  font: 700 13px "Ubuntu", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 92px;
+  width: 56px;
+  height: 21px;
+}
+.image-1-photo-room-6 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 1590px;
+  top: 6px;
 }
 
-body {
-  margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
-}
-
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
-}
-
-#app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
-
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.vanilla:hover {
-  filter: drop-shadow(0 0 2em #3178c6aa);
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
-}
-
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
-}
