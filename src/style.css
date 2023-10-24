@@ -1,15 +1,20 @@
+body{
+  background-color: black;
+}
+
 .slide-16-9-3,
 .slide-16-9-3 * {
   box-sizing: border-box;
 }
 .slide-16-9-3 {
   background: #040404;
-  width: 1905px;
+  width: 1895px;
   height: 2434px;
   position: relative;
   overflow: hidden;
 }
-.tojos-montecristo-hi-res-4-01-1 {
+.tojos {
+  filter: brightness(9%);
   width: 1905px;
   height: 911px;
   position: absolute;
@@ -87,7 +92,7 @@
   position: absolute;
   left: 1717.8px;
   top: 19.85px;
-  width: 59.27px;
+  width: 70px;
   height: 14.89px;
 }
 .subtract {
@@ -164,8 +169,8 @@
   font: 700 24px "Ubuntu", sans-serif;
   position: absolute;
   left: 71px;
-  top: 953px;
-  width: 187px;
+  top: 950px;
+  width: 200px;
   height: 27px;
 }
 .component-1 {
@@ -180,12 +185,12 @@
   text-align: left;
   font: 700 20px "Ubuntu", sans-serif;
   position: absolute;
-  left: 1366px;
+  left: 1373px;
   top: 450px;
   width: 50px;
   height: 20px;
 }
-.all-types-of-sushi-consist-of-a-basic-ingredient-specifically-cooked-rice-to-which-other-ingredients-are-added-most-often-fish-and-nori {
+.all-types-of-sushi-consist-of-a-basic {
   color: #ffffff;
   text-align: left;
   font: 300 18px "Ubuntu", sans-serif;
@@ -202,7 +207,7 @@
   left: 1035px;
   top: 320px;
 }
-.the-history-of-sushi-began-with-rice-fields-where-fish-was-fermented-with-vinegar-salt-and-rice-after-which-the-rice-was-thrown-away-the-earliest-form-of-the-dish-today-called-naresushi-was-created-in-japan-around-the-yayoi-period-early-neolithic-early-iron-age-during-the-muromachi-period-1336-1573-people-began-to-eat-rice-as-well-as-fish-during-the-edo-period-1603-1867-vinegar-rather-than-fermented-rice-began-to-be-used {
+.history-of-sushi {
   color: #ffffff;
   text-align: left;
   font: 300 18px "Ubuntu", sans-serif;
@@ -229,7 +234,8 @@
   left: 1035px;
   top: 35px;
 }
-._1660923100-61-kartinkin-net-p-sushi-nastoyashchie-pinterest-75-1 {
+.net-sushi {
+  filter: brightness(9%);
   width: 1004px;
   height: 475px;
   position: absolute;
@@ -248,7 +254,7 @@
   text-align: left;
   font: 700 20px "Ubuntu", sans-serif;
   position: absolute;
-  left: 5px;
+  
   top: 540px;
   width: 50px;
   height: 20.14px;
@@ -277,7 +283,8 @@
   left: 0px;
   top: 0px;
 }
-._9460-d-071-aa-56037808922-bac-6573-cfa-5-1 {
+.sukiya {
+  filter: brightness(9%);
   width: 938px;
   height: 573px;
   position: absolute;
@@ -292,7 +299,7 @@
   left: 0px;
   top: 37px;
 }
-.a-large-nabe-boiler-filled-with-water-and-heated-by-a-small-gas-burner-is-placed-in-the-center-of-the-table-kombu-and-or-dasi-can-be-added-to-the-water-when-the-water-boils-the-participants-of-the-meal-put-their-favorite-ingredients-into-the-pot-as-they-eat-since-the-meat-is-cut-very-thinly-it-comes-to-readiness-quite-quickly-when-the-ingredients-are-sufficiently-cooked-the-guests-take-the-pieces-dip-them-in-the-sauce-and-eat-the-sauce-can-be-different-or-even-independently-mixed-to-taste-from-several-ready-made-sauces-and-spices-then-the-cooking-procedure-is-repeated-usually-there-are-several-bookmarks-until-all-the-guests-feel-full-the-last-ingredient-is-often-noodles-which-are-eaten-together-with-the-remains-of-the-soup {
+.soup {
   color: #ffffff;
   text-align: left;
   font: 300 18px "Ubuntu", sans-serif;
@@ -301,7 +308,7 @@
   top: 82px;
   width: 828px;
 }
-.sukiyaki-consists-of-several-traditional-ingredients-for-asian-cuisine-cabbage-noodles-chrysanthemum-tang-ho-or-spinach-broth-and-beef-usually-a-dish-from-a-cauldron-is-prepared-right-on-the-table-having-prepared-a-raw-egg-yolk-for-dipping-juicy-meat-slices-into-it {
+.sukiyaki-consists {
   color: #ffffff;
   text-align: left;
   font: 300 18px "Ubuntu", sans-serif;
@@ -310,7 +317,7 @@
   top: 447px;
   width: 828px;
 }
-.in-modern-japanese-encyclopedias-on-the-history-of-nutrition-researchers-derive-the-etymology-of-the-name-sukiyaki-from-the-custom-common-among-peasants-in-the-xvii-xviii-centuries-to-fry-yaku-meat-on-a-shovel-or-ploughshare-suki {
+.in-modern-japanese-encyclopedias-on-the-historyi {
   color: #ffffff;
   text-align: left;
   font: 300 18px "Ubuntu", sans-serif;
@@ -413,3 +420,4 @@
   left: 1590px;
   top: 6px;
 }
+
