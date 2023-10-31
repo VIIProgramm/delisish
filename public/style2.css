@@ -13,6 +13,7 @@ body{
   overflow: hidden;
 }
 .tojos2 {
+  filter: brightness(170%);
   width: 1920px;
   height: 532px;
   position: absolute;
@@ -130,7 +131,8 @@ body{
   width: 59.51px;
   height: 21px;
 }
-.image-1-photo-room-3 {
+.image-1 {
+  filter: brightness(170%);
   width: 106.27px;
   height: 100px;
   position: absolute;
@@ -213,6 +215,7 @@ body{
   height: 167px;
 }
 .beaten-cucumbers {
+  filter: brightness(170%);
   width: 285px;
   height: 295px;
   position: absolute;
