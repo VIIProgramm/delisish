@@ -13,9 +13,8 @@ body{
   overflow: hidden;
 }
 .tojos2 {
-  filter: brightness(9%);
-  width: 1905px;
-  height: 911px;
+  width: 1920px;
+  height: 532px;
   position: absolute;
   left: 0px;
   top: 0px;
