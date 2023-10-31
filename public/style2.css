@@ -2,10 +2,10 @@ body{
   background-color: black;
 }
 
-.menu * {
+.slide-16-9-2 * {
   box-sizing: border-box;
 }
-.menu {
+.slide-16-9-2 {
   background: #040404;
   width: 1920px;
   height: 1662px;
