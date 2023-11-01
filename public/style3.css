@@ -378,6 +378,8 @@
   width: 81px;
 }
 .home {
+  accent-color: white;
+  text-decoration: none;
   color: #aaabad;
   text-align: left;
   font: 400 20px "Ubuntu", sans-serif;
@@ -387,6 +389,8 @@
   width: 66px;
 }
 .menu {
+  accent-color: white;
+  text-decoration: none;
   color: #ffffff;
   text-align: left;
   font: 400 20px "Ubuntu", sans-serif;
