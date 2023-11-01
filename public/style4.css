@@ -1,3 +1,6 @@
+body{
+    background-color: black;
+}
 .slide-16-9-5,
 .slide-16-9-5 * {
   box-sizing: border-box;
@@ -293,9 +296,9 @@
   text-align: left;
   font: 400 16px "Ubuntu", sans-serif;
   position: absolute;
-  left: 1730px;
+  left: 1727px;
   top: 21px;
-  width: 60px;
+  width: 66px;
   height: 15px;
 }
 .subtract {
