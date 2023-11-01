@@ -7,6 +7,8 @@ body{
   box-sizing: border-box;
 }
 .slide-16-9-3 {
+  accent-color: white;
+  text-decoration: none;
   background: #040404;
   width: 1895px;
   height: 2434px;
@@ -29,8 +31,7 @@ body{
   top: 61px;
 }
 .menu {
-  accent-color: white;
-  text-decoration: none;
+  
   color: #aaabad;
   text-align: left;
   font: 400 19px "Ubuntu", sans-serif;
