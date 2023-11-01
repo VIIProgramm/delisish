@@ -1,3 +1,6 @@
+body{
+    background-color: black;
+}
 .slide-16-9-4,
 .slide-16-9-4 * {
   box-sizing: border-box;
