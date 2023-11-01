@@ -13,6 +13,7 @@ body{
   overflow: hidden;
 }
 .tojos-montecristo-hi-res-4-01-2 {
+  filter: brightness(170%);
   width: 1920px;
   height: 532px;
   position: absolute;
@@ -212,6 +213,7 @@ body{
   height: 167px;
 }
 .beaten-cucumbers {
+  filter: brightness(170%);
   width: 285px;
   height: 295px;
   position: absolute;

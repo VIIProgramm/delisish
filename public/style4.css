@@ -219,6 +219,7 @@ body{
   height: 167px;
 }
 .beaten-cucumbers-1-4 {
+  filter: brightness(170%);  
   width: 285px;
   height: 295px;
   position: absolute;
