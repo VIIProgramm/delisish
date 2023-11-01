@@ -29,6 +29,7 @@ body{
   top: 61px;
 }
 .menu {
+  accent-color: white;
   text-decoration: none;
   color: #aaabad;
   text-align: left;
